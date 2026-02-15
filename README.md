@@ -2,7 +2,7 @@
 
 **Enterprise LLM/AI Agent Evaluation, Testing, Compliance Monitoring & Training Platform**
 
-[![Live Site](https://img.shields.io/badge/Live-echolabs--ai.com-blue)](https://echolabs-ai.com)
+[![Live Site](https://img.shields.io/badge/Live-echolabs--ai.com-blue)](https://echolabs-ai.com) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ArjunFrancis/Echolabs-AI-Research)
 [![Repository](https://img.shields.io/badge/GitHub-Echolabs--AI-green)](https://github.com/ArjunFrancis/Echolabs-AI)
 
 > 📖 **Quick Navigation:** [Full Navigation Index](NAVIGATION.md) | [Developer Quickstart](DEVELOPER_QUICKSTART.md) | [Executive Summary](deliverables/executive-summary.md) | [Technical Specifications](deliverables/technical-specifications.md) | [Project Context (llm.txt)](llm.txt)
